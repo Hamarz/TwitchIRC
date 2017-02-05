@@ -1,0 +1,7 @@
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\bin\x86\Debug\TwitchIRC.dll
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\bin\x86\Debug\TwitchIRC.pdb
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\bin\x86\Debug\RestSharp.dll
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\bin\x86\Debug\TwitchCSharp.dll
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\obj\x86\Debug\TwitchIRC.dll
+C:\Users\Tuomas\Desktop\C# Development\TwitchIRC\TwitchIRC\obj\x86\Debug\TwitchIRC.pdb
